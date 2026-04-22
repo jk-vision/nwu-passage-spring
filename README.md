@@ -39,7 +39,7 @@
 * What are the weaknesses, limitations of the paper?
 * How could it be improved?
 * Deliverable: Submit a 1-page PDF report (A4)
-* 
+  
 ## Week 6: Final Presentation Preparation
 * Final Presentation Preparation: A Simple Research Proposal
   * Goal (Input / Output)
@@ -52,4 +52,4 @@
 
 ## Week 7: Final Presentation - A simple Research Proposal
 * Explain the paper to a non-expert in your own words
-
+* Deliverable: Submit your ppt slides
