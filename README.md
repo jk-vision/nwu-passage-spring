@@ -11,12 +11,12 @@
 
 # Your Tasks
 ## Weeks 2 -3
-* Select a paper – Computer Vision for Agriculture Workshop (CVPR2025)
-  * <a href="https://visarts.eu/">California Crop Yield Benchmark: Combining Satellite Image, Climate, Evapotranspiration, and Soil Data Layers for County-Level Yield Forecasting of Over 70 Crops</a>
+* Select a paper – <a href="https://openaccess.thecvf.com/menu">Computer Vision for Agriculture Workshop </a>
+  * <a href="https://visarts.eu/">California Crop Yield Benchmark: Combining Satellite Image, Climate, Evapotranspiration, and Soil Data Layers for County-Level Yield Forecasting of Over 70 Crops (CVPR2025)</a>
 
-  * <a href="https://openaccess.thecvf.com/content/CVPR2025W/V4A/papers/von_Hirschhausen_AppleGrowthVision_A_large-scale_stereo_dataset_for_phenological_analysis_fruit_detection_CVPRW_2025_paper.pdf"> AppleGrowthVision: A large-scale stereo dataset for phenological analysis, fruit detection, and 3D reconstruction in apple orchards </a>
+  * <a href="https://openaccess.thecvf.com/content/CVPR2025W/V4A/papers/von_Hirschhausen_AppleGrowthVision_A_large-scale_stereo_dataset_for_phenological_analysis_fruit_detection_CVPRW_2025_paper.pdf"> AppleGrowthVision: A large-scale stereo dataset for phenological analysis, fruit detection, and 3D reconstruction in apple orchards (CVPR2025)</a>
 
-  * <a href="https://openaccess.thecvf.com/content/CVPR2025W/V4A/papers/Zhang_Wheat3DGS_In-field_3D_Reconstruction_Instance_Segmentation_and_Phenotyping_of_Wheat_CVPRW_2025_paper.pdf"> Wheat3DGS: In-field 3D Reconstruction, Instance Segmentation and Phenotyping of Wheat Heads with Gaussian Splatting </a>
+  * <a href="https://openaccess.thecvf.com/content/CVPR2025W/V4A/papers/Zhang_Wheat3DGS_In-field_3D_Reconstruction_Instance_Segmentation_and_Phenotyping_of_Wheat_CVPRW_2025_paper.pdf"> Wheat3DGS: In-field 3D Reconstruction, Instance Segmentation and Phenotyping of Wheat Heads with Gaussian Splatting (CVPR2025)</a>
 
 * Analyze the paper:
   * Identify the Goal, Input, and Output — and explain why it matters.
