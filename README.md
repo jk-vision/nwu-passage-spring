@@ -23,7 +23,8 @@
   * Summarize each section's purpose in 1–2 sentences.
   * Summarize each paragraph's main idea in 1–2 sentences.
   * List technical keywords you don't understand, then look up their meaning.
-
+    * Deliverable: Submit a 1-page PDF report (A4). 
+    
 ## Week 4
 * Summarize the paper
   * Goal (Input/Output)
