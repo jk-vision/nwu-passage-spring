@@ -12,7 +12,7 @@
 # Your Tasks
 ## Weeks 2 -3
 * Select a paper – <a href="https://openaccess.thecvf.com/menu">Computer Vision for Agriculture Workshop </a>
-  * <a href="https://visarts.eu/">California Crop Yield Benchmark: Combining Satellite Image, Climate, Evapotranspiration, and Soil Data Layers for County-Level Yield Forecasting of Over 70 Crops (CVPR2025)</a>
+  * <a href="https://openaccess.thecvf.com/content/CVPR2025W/V4A/papers/Kamangir_California_Crop_Yield_Benchmark_Combining_Satellite_Image_Climate_Evapotranspiration_and_CVPRW_2025_paper.pdf">California Crop Yield Benchmark: Combining Satellite Image, Climate, Evapotranspiration, and Soil Data Layers for County-Level Yield Forecasting of Over 70 Crops (CVPR2025)</a>
 
   * <a href="https://openaccess.thecvf.com/content/CVPR2025W/V4A/papers/von_Hirschhausen_AppleGrowthVision_A_large-scale_stereo_dataset_for_phenological_analysis_fruit_detection_CVPRW_2025_paper.pdf"> AppleGrowthVision: A large-scale stereo dataset for phenological analysis, fruit detection, and 3D reconstruction in apple orchards (CVPR2025)</a>
 
