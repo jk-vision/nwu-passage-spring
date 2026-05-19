@@ -34,12 +34,12 @@
   * Methodology pipeline
   * Experimental results
 
-* Deliverable: Submit a 1-page PDF report (A4).
+* Deliverable: Submit ppt slides.
 
 ## Week 5: Critical Analysis
 * What are the weaknesses, limitations of the paper?
 * How could it be improved?
-* Deliverable: Submit a 1-page PDF report (A4)
+* Deliverable: Submit ppt slides
   
 ## Week 6: Final Presentation Preparation
 * Final Presentation Preparation: A Simple Research Proposal
