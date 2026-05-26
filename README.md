@@ -54,3 +54,7 @@
 ## Week 7: Final Presentation - A simple Research Proposal
 * Explain the paper to a non-expert in your own words
 * Deliverable: Submit your ppt slides
+
+# Some tips for preparing the presentation slides.
+https://www.cmu.edu/student-success/other-resources/handouts/comm-supp-pdfs/designing-powerpoint-slides.pdf
+https://ethz.ch/content/dam/ethz/special-interest/infk/inst-infsec/information-security-group-dam/education/guide-presentations.pdf
